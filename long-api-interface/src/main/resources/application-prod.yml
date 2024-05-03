@@ -1,0 +1,14 @@
+server:
+  port: 8123
+#  servlet:
+#    context-path: /api
+#api:
+#  client:
+#    access-key: yupi
+#    secret-key: abcdefgh
+#spring:
+#  application:
+#    name: API-interface
+#    # 默认 dev 环境
+#    profiles:
+#    active: prod
